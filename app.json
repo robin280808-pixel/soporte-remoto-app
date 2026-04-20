@@ -13,7 +13,6 @@
         "android.permission.FOREGROUND_SERVICE",
         "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"
       ]
-    },
-    "plugins": ["react-native-webrtc"]
+    }
   }
 }
