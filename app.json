@@ -4,6 +4,7 @@
     "slug": "soporte-remoto",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner": "luigi20302",
     "extra": {
       "eas": {
         "projectId": "0d9a43c7-e53a-498c-928c-399a53dd009a"
